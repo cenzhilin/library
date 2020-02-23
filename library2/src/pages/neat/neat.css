@@ -1,0 +1,42 @@
+.bookshefl-box{
+    height:190px;
+    width: 120px;
+}
+.bookshelf{
+    height: 170px;
+    width: 120px;
+    background: url("bookshelf.jpg") no-repeat;
+    background-size:  cover ;
+}
+
+.bookshelf-inner{
+    display: inline-block;
+    height: 200px;
+    width: 50px;
+
+}
+
+.goto{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+}
+
+.go{
+
+    font-weight: bolder;
+    font-size: 60px;
+    color:white;
+    height: 60px;
+    width: 60px;
+    line-height: 46px; 
+    text-align: center;
+    border-radius: 50%;
+    
+}
+
+.nmask{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(45,45,45,0.7);
+}

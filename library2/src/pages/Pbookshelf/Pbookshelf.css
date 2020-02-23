@@ -1,0 +1,13 @@
+.book {
+    display: inline-block;
+    
+width: 10%;
+height: 60px;
+border: 1px solid #000;
+overflow: hidden;
+font-size: 12px;
+writing-mode:vertical-rl;
+}
+.bul{
+    padding: 0 ;
+}

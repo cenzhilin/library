@@ -1,0 +1,24 @@
+.bs{
+    display: flex;
+    justify-content: center;
+    flex-wrap:wrap;
+    align-items:center
+}
+
+.bs-row{
+    position: relative;
+    height: 60px;
+    width: 300px;
+    background: red;
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-top: 15px;
+    background: #EEEBBA;
+    border: 1px solid #000;
+}
+
+.mask{
+    position: absolute;
+    height: 60px;
+    background-color:rgba(87, 78, 78, 0.6);
+}
